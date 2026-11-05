@@ -59,4 +59,8 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
 
+   <a href="https://codeforces.com/profile/kunalvoid" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-0077B5?style=for-the-badge&logo=codeforces&logoColor=black">
+  </a>
+
 </p>
